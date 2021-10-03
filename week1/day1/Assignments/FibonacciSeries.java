@@ -11,6 +11,8 @@ public class FibonacciSeries {
 		int range = 8, firstNum = 0, secNum = 1,sum=0;
 
 		System.out.println(firstNum);// To print the first value 0
+		System.out.println(secNum);//to print second number
+
 
 		
 		   for (int i = 0; i < range; i++) {
