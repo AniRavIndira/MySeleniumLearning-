@@ -1,0 +1,31 @@
+October Selenium Assignment
+Week 2 Day1
+Create Lead in Leaftaps Application        
+==================================================
+         1. Launch URL "http://leaftaps.com/opentaps/control/login"
+	 
+	 2. Enter UserName and Password 
+	  
+	 3. Click on Login Button 
+	 
+	 4. Click on CRM/SFA Link
+	
+	 5. Click on Leads Button
+	 
+	 6. Click on create Lead Button
+	  
+	 7. Enter all the text fields in CreateLead page
+
+          **Note
+               1. Donot work on Parent Account Field
+               2.Enter the Birthdate using SendKeys
+
+	 8. Enter all the text fields in contact information 
+  
+	 9. Enter all the text fields in primary address
+	 
+	 10. Get the Firstname and print it
+	  
+	 11. Click on create Lead Button 
+	 
+	 12. Get and Verify the Title of the resulting Page(View Lead)
