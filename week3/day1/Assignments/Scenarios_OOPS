@@ -1,0 +1,96 @@
+ASSIGNMENTS OOPs concept
+=============
+Week3 Day5: 16/10/2021
+
+Assignment1:
+===========
+     Package   :org.system
+     Class        :Computer
+     Methods   :computerModel()
+
+     Class        :Desktop
+     Methods   :desktopSize()
+
+Description:
+create above 2 class and call all your class methods into the Desktop using single inheritance.
+
+
+Assignment2:
+=============
+     Package   :org.college
+     Class     :College
+     Methods   :collegeName(),collegeCode(),collegeRank()
+
+     Package   :org.department
+     Class        :Department
+     Methods   :deptName()
+ 
+     Package   :org.student
+     Class        :Student
+     Methods   :studentName(),studentDept(),studentId()
+  
+Description:
+create above 3 class and call all your class methods into the Student using multilevel inheritance.
+
+Assignment3:
+============
+    Class     :BankInfo
+    Methods :saving(),fixed(),deposit()
+
+     Class     :AxisBank
+     Methods :deposit()
+
+Description:
+You have to override the method deposit in AxisBank.
+
+Assignment 4:
+==============
+
+      Class: Students
+      Methods: getStudentInfo()
+
+Description: 
+Create multiple getStudentInfo() method by passing id argument alone, by id & name, by email & phoneNumber
+
+==================================================
+Assignment 5:
+==============
+ String str3 = new String("Kutty");
+		 String str4 = new String("Kutty");
+		 
+		 if(str3==str4) {
+			 System.out.println(" Same text");
+		 }
+		 else
+			 System.out.println("Diff text");
+		 
+		 System.out.println("***");
+👆👆 Justify the above output
+==================================================
+
+
+Assignment 6:
+==============
+ A flow chart to show the single level and miltilevel inheritence in Selenium. (That which was discussed in the class)
+**Mention Keyword 
+==================================================
+
+
+Assignment 7:
+==============
+1. Write a Java program to get the character at the given index within the String. 
+String text = Java Exercise 
+  Index for character E and s                                                 ============================================================================
+2.Write a Java program to compare a given string to another string, ignoring case considerations.
+
+String 1="I am Learning Java" 
+String 2="I am learning java?   
+**  Explore with == operator
+**               equals
+**               equalsignorecase                                      
+=============================================================================
+3.Write a Java program to replace a specified character with another character and add # to the given string.
+
+String sentence = "I am working with Java8"
+replace 8 to 11 
+Print the characters from 5 to 14
